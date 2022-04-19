@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddy!
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python w/ a focus on Machine Learning and Data Science 
+- 👀 I’m currently learning full stack web development
+- 🌱 I completed a coding bootcamp learning Java,JavaScript, HTML, CSS, and MySQL. Some modern frameworks I've worked on include Angular, SpringBoot, Django, and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --- via email at edd1114@gmail.com
 
